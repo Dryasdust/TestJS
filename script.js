@@ -19,7 +19,7 @@ for (let i = 0; i < 2; i++) {
             console.log("Done!");
         appData.expenses[a] = b; 
     } else {
-
+        i--;
     }
 };
 
